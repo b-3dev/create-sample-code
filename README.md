@@ -18,7 +18,7 @@ This PHP class provides a convenient way to generate cURL code for making HTTP r
 2. Add this package to your project via Composer by running the following command in your project directory:
    
 ```bash
-composer require b-dev/create-sample-code
+composer require b-3dev/create-sample-code
 ```
 
 ### Manual Installation
@@ -26,7 +26,7 @@ composer require b-dev/create-sample-code
 If you prefer not to use Composer, you can clone or download this repository to your project:
 
 ```bash
-git clone https://github.com/b-dev/create-sample-code.git
+git clone https://github.com/b-3dev/create-sample-code.git
 ```
 
 ## Usage
