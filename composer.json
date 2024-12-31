@@ -1,0 +1,29 @@
+{
+    "name": "b-3dev/create-sample-code",
+    "description": "A simple PHP project for generating cURL sample code.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "b-3dev",
+        "email": "b3dev.mmd@gmail.com"
+      }
+    ],
+    "autoload": {
+      "psr-4": {
+        "YourNamespace\\": "src/"
+      }
+    },
+    "require": {
+      "php": "^8.0"
+    },
+    "scripts": {
+      "post-install-cmd": [
+        "echo 'Composer install finished!'"
+      ],
+      "post-update-cmd": [
+        "echo 'Composer update finished!'"
+      ]
+    }
+  }
+  
