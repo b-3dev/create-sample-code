@@ -97,4 +97,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Need Help?
 
-If you encounter any issues or have questions about this project, feel free to open an issue in the [GitHub repository](https://github.com/b-dev/CreateSampleCode/issues). I'll be happy to assist you!
+If you encounter any issues or have questions about this project, feel free to open an issue in the [GitHub repository](https://github.com/b-3dev/create-sample-code/issues). I'll be happy to assist you!
